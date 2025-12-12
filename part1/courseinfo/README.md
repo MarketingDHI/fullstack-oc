@@ -1,1 +1,1 @@
-# Courseinfo Exercises 1.1.-1.2.
+# Courseinfo Exercises 1.1.-1.5.
